@@ -1,0 +1,1 @@
+motor fault detection using edge ai.. will update this repo within a week or two. with all code along with necessary support and setup files.
